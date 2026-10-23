@@ -325,7 +325,7 @@ Como futuras extensiones del proyecto se podrían incorporar:
 
 ## 📄 Licencia
 
-Este proyecto no especifica una licencia de código abierto. Para reutilizarlo o redistribuirlo, consulta al autor del repositorio.
+Este proyecto se distribuye bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) para conocer los términos completos.
 
 ---
 
